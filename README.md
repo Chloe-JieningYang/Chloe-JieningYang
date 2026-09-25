@@ -1,78 +1,167 @@
 <div align="center">
 
-# Jiening Yang
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,50:EDE9FE,100:FCE7F3&height=220&section=header&text=Jiening%20Yang&fontSize=46&fontColor=111827&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Agentic%20Systems%20%C2%B7%20LLM%20Infrastructure&descSize=18&descAlignY=57&animation=fadeIn" alt="Jiening Yang — AI Engineer" />
 
-### AI Engineer building agentic, LLM-powered, and reliable software systems
+<p>
+  <img src="https://img.shields.io/badge/Agentic_AI-2563EB?style=flat-square" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/LLM_Systems-7C3AED?style=flat-square" alt="LLM Systems" />
+  <img src="https://img.shields.io/badge/Retrieval_&_Knowledge-0891B2?style=flat-square" alt="Retrieval and Knowledge" />
+  <img src="https://img.shields.io/badge/AI_Infrastructure-059669?style=flat-square" alt="AI Infrastructure" />
+</p>
 
-I turn model capabilities into dependable products — from retrieval, tool use, memory, and evaluation to backend services, distributed systems, and thoughtful user experiences.
-
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-111827?style=flat-square)
-![LLM Systems](https://img.shields.io/badge/LLM_Systems-1F2937?style=flat-square)
-![Knowledge Infrastructure](https://img.shields.io/badge/Knowledge_Infrastructure-374151?style=flat-square)
-![Reliable Systems](https://img.shields.io/badge/Reliable_Systems-4B5563?style=flat-square)
+I build dependable AI systems that connect model intelligence with tools, knowledge, data, and production infrastructure.
 
 </div>
 
----
+## Core Capabilities
 
-## What I Work On
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Agentic AI & LLM Systems
+### 🧠 LLM Training & Alignment
 
-- Build agents that reason with tools, route work, maintain memory, and recover gracefully from failures.
-- Develop retrieval and generation pipelines with RAG, hybrid search, reranking, structured outputs, and evidence-aware responses.
-- Work across the model lifecycle: efficient fine-tuning with LoRA/PEFT, preference alignment with DPO, inference, and evaluation.
-- Design observable systems with explicit tool traces, quality checks, latency monitoring, caching, fallbacks, and clear failure modes.
+Build and adapt language models across the model lifecycle.
 
-### Knowledge & Multimodal Infrastructure
+**SFT · DPO · LoRA / PEFT · Inference · Model Evaluation**
 
-- Transform documents, images, audio, video, and web content into structured, traceable knowledge artifacts.
-- Build ingestion and processing pipelines that preserve semantic structure, assets, provenance, and downstream references.
-- Connect parsing, retrieval, knowledge-base management, and LLM reasoning through stable APIs and asynchronous workflows.
+</td>
+<td width="50%" valign="top">
 
-### Reliable Software Systems
+### 🧩 Agent Systems
 
-- Design distributed services with replication, failure detection, checkpointing, recovery, and resilient component boundaries.
-- Build asynchronous APIs and stateful services backed by relational databases, caches, and vector stores.
-- Treat reliability as a product feature: test critical paths, make degradation explicit, and engineer for operability.
+Design agents that plan, use tools, maintain context, and recover from failures.
 
-### Product Engineering
+**Tool Calling · MCP · Memory · Multi-Agent · Tracing**
 
-- Deliver complete AI applications across Python/FastAPI backends and React/TypeScript frontends.
-- Turn prototypes into deployable systems with Docker, Kubernetes/Helm, CI-friendly workflows, and environment-based configuration.
-- Balance model quality, system complexity, latency, maintainability, and user experience.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 Retrieval & Knowledge
+
+Ground model behavior in relevant, traceable, and structured information.
+
+**RAG · Hybrid Search · Reranking · Vector Stores · Knowledge Graphs**
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ AI Infrastructure
+
+Turn model capabilities into observable, resilient, and scalable services.
+
+**Model Serving · Async Pipelines · Caching · Fallbacks · Observability**
+
+</td>
+</tr>
+</table>
+
+## AI Engineering Stack
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Model & Training
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/PEFT-8B5CF6?style=for-the-badge" alt="PEFT" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### Agents & Evaluation
+
+<p>
+  <img src="https://img.shields.io/badge/Tool_Calling-2563EB?style=for-the-badge" alt="Tool Calling" />
+  <img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge" alt="MCP" />
+  <img src="https://img.shields.io/badge/Agent_Memory-7C3AED?style=for-the-badge" alt="Agent Memory" />
+  <img src="https://img.shields.io/badge/LLM_Evaluation-DB2777?style=for-the-badge" alt="LLM Evaluation" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Retrieval & Knowledge
+
+<p>
+  <img src="https://img.shields.io/badge/RAG-0891B2?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/Reranking-0F766E?style=for-the-badge" alt="Reranking" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### Serving & Data Systems
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+
+### Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ## Engineering Foundation
 
-My CMU coursework and hands-on implementations strengthen the fundamentals behind this work:
+My CMU coursework and hands-on implementations reinforce the fundamentals behind production AI:
 
-- **Computer systems** — low-level reasoning about how software interacts with runtime and system resources.
-- **Distributed systems** — active/passive replication, membership, heartbeats, failure detection, and automatic recovery.
-- **Deep learning & advanced NLP** — tokenization, Transformer components, optimization, pretraining, sampling, adaptation, and evaluation.
-- **Applied machine learning** — language models, retrieval, computer vision, model serving, and end-to-end experimentation.
+| Area | Focus |
+|---|---|
+| **Advanced NLP** | Tokenization, Transformer internals, pretraining, sampling, adaptation, and evaluation |
+| **Deep Learning** | Optimization, representation learning, model experimentation, and empirical analysis |
+| **Distributed Systems** | Replication, membership, heartbeats, failure detection, checkpointing, and recovery |
+| **Computer Systems** | Runtime behavior, resource constraints, performance, and systems-level reasoning |
 
-## How I Work
+## Engineering Principles
 
-1. Start from the user and the failure modes, not from a framework.
-2. Keep model behavior measurable with evaluations, tests, and observable traces.
-3. Design clean boundaries between models, tools, data, services, and interfaces.
-4. Prefer simple, dependable systems that can evolve over impressive-looking complexity.
-5. Carry ideas from research and coursework into software that people can actually use.
+- **Evidence before output** — ground responses in retrieved data, tool results, and explicit provenance.
+- **Evaluation before intuition** — measure model and system behavior across quality, latency, and failure cases.
+- **Reliability by design** — make retries, fallbacks, caching, degradation, and observability first-class concerns.
+- **Clean system boundaries** — separate models, tools, retrieval, data, serving, and evaluation so each can evolve independently.
+- **From research to production** — turn promising model behavior into software that remains useful outside a demo.
 
-## Technical Toolkit
+## Contribution Activity
 
-**AI / LLM:** PyTorch · Transformers · RAG · SFT · DPO · PEFT / LoRA · Function Calling · Vector Search · LLM Evaluation
-
-**Backend / Systems:** Python · FastAPI · Django · PostgreSQL · Redis · ChromaDB · FAISS · REST · SSE
-
-**Frontend / Delivery:** TypeScript · React · Vite · Docker · Kubernetes · Helm · Git
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chloe-JieningYang&bg_color=ffffff&color=2563eb&line=7c3aed&point=0891b2&area=true&area_color=dbeafe&hide_border=true&custom_title=Engineering%20Activity" alt="GitHub contribution activity graph" />
+</div>
 
 ## Current Direction
 
-I am focused on dependable agentic systems that can use tools, retrieve evidence, maintain useful context, and operate safely inside real software environments.
+Building dependable agentic systems that can use tools, retrieve evidence, maintain useful context, and operate safely across real software environments.
 
 ---
 
 ## 中文简介
 
-我是一名专注于 **Agent、LLM 系统与可靠软件工程** 的 AI Engineer。我的工作覆盖模型微调与评测、RAG 与知识基础设施、多模态内容处理、分布式系统，以及从后端服务到前端体验的完整产品交付。我关注的不只是模型“能不能做”，也关注系统是否可测试、可观测、可维护，并能在真实场景中稳定运行。
+我是一名专注于 **Agent 系统、LLM 基础设施与生产级 AI 工程** 的 AI Engineer。我的工作覆盖模型微调与评测、工具调用与智能体记忆、RAG 与知识图谱、检索与重排、模型服务，以及面向真实业务场景的可靠性与可观测性建设。
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE7F3,50:EDE9FE,100:DBEAFE&height=100&section=footer" alt="" />
