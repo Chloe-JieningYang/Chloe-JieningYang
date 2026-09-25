@@ -148,20 +148,15 @@ My CMU coursework and hands-on implementations reinforce the fundamentals behind
 - **Clean system boundaries** — separate models, tools, retrieval, data, serving, and evaluation so each can evolve independently.
 - **From research to production** — turn promising model behavior into software that remains useful outside a demo.
 
-## Contribution Activity
+## Contribution Overview
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chloe-JieningYang&bg_color=ffffff&color=2563eb&line=7c3aed&point=0891b2&area=true&area_color=dbeafe&hide_border=true&custom_title=Engineering%20Activity" alt="GitHub contribution activity graph" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chloe-JieningYang&theme=default" alt="GitHub contribution overview" />
 </div>
 
 ## Current Direction
 
 Building dependable agentic systems that can use tools, retrieve evidence, maintain useful context, and operate safely across real software environments.
 
----
-
-## 中文简介
-
-我是一名专注于 **Agent 系统、LLM 基础设施与生产级 AI 工程** 的 AI Engineer。我的工作覆盖模型微调与评测、工具调用与智能体记忆、RAG 与知识图谱、检索与重排、模型服务，以及面向真实业务场景的可靠性与可观测性建设。
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE7F3,50:EDE9FE,100:DBEAFE&height=100&section=footer" alt="" />
